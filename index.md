@@ -2,6 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
+      <p><a href="https://blog.csdn.net/constant_wang">Jamon 的博客</a></p>
       <h1>Jamon</h1>
       <p><b>硕士研究生</b></p>
       <p><b>××大学××学院</b></p>
