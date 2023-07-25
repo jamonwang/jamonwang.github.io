@@ -2,12 +2,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><a href="https://blog.csdn.net/constant_wang">Jamon 的博客</a></p>
+      <h1><a href="https://blog.csdn.net/constant_wang">Jamon 的博客</a></h1>
       <h1>Jamon</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>西安科技大学</b></p>
+      <p><b>邮箱：jamonwang@163.com</b></p>
+      <p><b>地址：XXXXXXXXXXXXXXXXX</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
@@ -19,7 +19,7 @@
 
 ---
 
-张三，男， 个人简历
+Jamon，男， 个人简历
 
 ---
 
